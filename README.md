@@ -1,2 +1,2 @@
 # github-foundation
-Explore github essentials
+Explore github essentials and other features
